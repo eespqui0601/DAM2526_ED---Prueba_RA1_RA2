@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"tema2_prueba","c":"PiramideSumas","l":"borrarConsola()","k":"6"},{"p":"tema2_prueba","c":"PiramideSumas","l":"main(String[])","u":"main(java.lang.String[])","k":"6"},{"p":"tema2_prueba","c":"PiramideSumas","l":"piramide(int)","k":"6"},{"p":"tema2_prueba","c":"PiramideSumas","l":"PiramideSumas()","u":"%3Cinit%3E()","k":"3"}];updateSearchResults();
